@@ -2,8 +2,8 @@
 # Dvorak配列とProgrammerDvorak配列のromantable（Mozc、Google日本語）
   
   
+
   ProgrammerDvorak配列用
-  
   Dvorak配列用
   
   
