@@ -498,6 +498,7 @@ ly	ぃい
 lx	ぃん
 lu	ぅ
 lp	ぅう
+lhk	うん
 lk	ぅん
 le	ぇ
 l.	ぇい
@@ -550,12 +551,12 @@ xk'	ヵん
 xke	ヶ
 xk.	ヶい
 xkj	ヶん
-lka	ヵ
-lk'	ヵい
-lk;	ヵん
-lke	ヶ
-lk.	ヶい
-lkj	ヶん
+lca	ヵ
+lc'	ヵい
+lc;	ヵん
+lce	ヶ
+lc.	ヶい
+lcj	ヶん
 ga	が
 g;	がい
 g'	がん
