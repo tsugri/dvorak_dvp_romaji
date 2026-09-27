@@ -1,17 +1,18 @@
-    
+# azooKey-Desktop (Extended Layouts Edition)用tsvファイル
+ACT(DvorakJPの設定ファイル)を元に独自の変更を加えています。
+
+ - custom_input_table_dvorak.tsv
+Dvorak配列のazooKey-Desktop (Extended Layouts Edition)用tsvファイル
+
+ - custom_input_table_dvp.tsv
+ProgrammerDvorak配列のazooKey-Desktop (Extended Layouts Edition)用tsvファイル
+ 
+
 # Dvorak配列とProgrammerDvorak配列のromantable（Mozc、Google日本語）
-# ProgrammerDvorak配列のcustom_input_table(azooKey-Desktop(Dvp使用可能修正版))
-  
-  
-  
- - Dvorak配列用
-  
- - ProgrammerDvorak配列用
-  
-  
-  
-Dvorakjpを元に独自の変更を加えています。
+ACT(DvorakJPの設定ファイル)を元に独自の変更を加えています。
 
-
-追記
-ProgrammerDvorak配列のazooKey-Desktop(Dvp使用可能修正版)用tsvファイル
+  - romantable_dvorak.txt
+  Dvorak配列のromantable（Mozc、Google日本語）ファイル
+ 
+ - romantable_dvp.txt
+ProgrammerDvorak配列のromantable（Mozc、Google日本語）ファイル
